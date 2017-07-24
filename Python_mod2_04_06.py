@@ -1,0 +1,1 @@
+zmiennatxt = "Jestem z mod 2"
